@@ -1,0 +1,11 @@
+Task 1:
+
+Added a new class RewardValue.
+Created two constructors: one that accepts a cash value and one that accepts a value in miles.
+Implemented getCashValue() method, which returns the cash value of the RewardValue.
+Implemented getMilesValue() method, which returns how many miles the RewardValue is worth.
+Task 2:
+
+Made changes in the RewardValueTest class.
+Implemented the convert_from_cash_to_miles and convert_from_miles_to_cash test methods.
+All test cases pass successfully.
